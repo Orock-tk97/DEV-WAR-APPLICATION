@@ -30,6 +30,91 @@
         "email": "emily.brown@example.com",
         "password": "brownbear789"
       }
+    ],
+    "Invest":[
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/007bff",
+        "heading": "Sustainable Clothing Brand",
+        "subheading": "Creating eco-friendly fashion solutions",
+        "raisedAmount": "$250,000",
+        "numInvestors": "320+",
+        "minInvestment": "$500",
+        "status": "most impacted"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/ffc107",
+        "heading": "Innovative Food Delivery App",
+        "subheading": "Transforming the way you eat",
+        "raisedAmount": "$780,000",
+        "numInvestors": "1,200+",
+        "minInvestment": "$1,000",
+        "status": "most funded"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/28a745",
+        "heading": "AI-powered Education Platform",
+        "subheading": "Personalized learning for everyone",
+        "raisedAmount": "$1,500,000",
+        "numInvestors": "4,500+",
+        "minInvestment": "$2,500",
+        "status": "recently launched"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/e84118",
+        "heading": "Revolutionary Healthcare Technology",
+        "subheading": "Improving healthcare accessibility",
+        "raisedAmount": "$420,000",
+        "numInvestors": "650+",
+        "minInvestment": "$750",
+        "status": "most impacted"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/3f51b5",
+        "heading": "FinTech Startup Disrupting Payments",
+        "subheading": "Making payments faster and more secure",
+        "raisedAmount": "$900,000",
+        "numInvestors": "1,800+",
+        "minInvestment": "$1,500",
+        "status": "most funded"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/ff9800",
+        "heading": "Sustainable Farming Initiative",
+        "subheading": "Promoting environmentally friendly agriculture",
+        "raisedAmount": "$180,000",
+        "numInvestors": "200+",
+        "minInvestment": "$250",
+        "status": "recently launched"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/dc3545",
+        "heading": "Clean Energy Solution Provider",
+        "subheading": "Transitioning to renewable energy sources",
+        "raisedAmount": "$600,000",
+        "numInvestors": "850+",
+        "minInvestment": "$1,000",
+        "status": "most impacted"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/28a745",
+        "heading": "Cybersecurity Platform for Businesses",
+        "subheading": "Protecting against cyber threats",
+        "raisedAmount": "$1,200,000",
+        "numInvestors": "2,500+",
+        "minInvestment": "$2,000",
+        "status": "most funded"
+      },
+      {
+        "imageSrc": "https://via.placeholder.com/300x200/ffc107",
+        "heading": "Educational App for Children",
+        "subheading": "Making learning fun and engaging",
+        "raisedAmount": "$350,000",
+        "numInvestors": "500+",
+        "minInvestment": "$750",
+        "status": "recently launched"
+      }
     ]
+    
+
   }
   
