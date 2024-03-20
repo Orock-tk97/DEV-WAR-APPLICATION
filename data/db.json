@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "securepassword123"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "strongpassword456"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "safeandsecure789"
+      },
+      {
+        "id": 4,
+        "name": "Bob Anderson",
+        "email": "bob.anderson@example.com",
+        "password": "password123abc"
+      },
+      {
+        "id": 5,
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "password": "brownbear789"
+      }
+    ]
+  }
+  
